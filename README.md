@@ -4,4 +4,4 @@ I'm Benjamin, a junior at UC Davis studying Computer Science! My pronouns are he
 
 My interests lie in making technology widely accessible and delivering unique product experiences.
 
-Feel free to explore my GitHub, or check out my website at [benjamin-dinh.com](https://benjamin-dinh.com/) 
+Feel free to explore my GitHub, or check out my website at [benjamindinh.com](https://benjamindinh.com/) 
