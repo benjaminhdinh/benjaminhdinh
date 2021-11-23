@@ -1,6 +1,6 @@
 ### Hey, nice to meet you 👋
 
-I'm Benjamin, a junior at UC Davis studying Computer Science! My pronouns are he/him.
+I'm Benjamin, a senior at UC Davis studying Computer Science! My pronouns are he/him.
 
 My interests lie in making technology widely accessible and delivering unique product experiences.
 
