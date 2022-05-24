@@ -1,7 +1,7 @@
 ### Hey, nice to meet you 👋
 
-I'm Benjamin, a senior at UC Davis studying Computer Science! My pronouns are he/him.
+I'm Benjamin! My pronouns are he/him.
 
-My interests lie in making technology widely accessible and delivering unique product experiences.
+I am a creative problem solver passionate about bringing users together through meaningful product experiences.
 
 Feel free to explore my GitHub, or check out my website at [benjamindinh.com](https://benjamindinh.com/) 
